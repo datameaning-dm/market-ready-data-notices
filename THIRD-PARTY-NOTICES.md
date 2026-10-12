@@ -1,8 +1,8 @@
-# Third-party notices: Market-Ready Data
+# Third-party notices: Metadata Enrichment Engine
 
 ## What Data Meaning supplies
 
-The deployment runs one container image, `datameaning.azurecr.io/market-ready-data`, from a registry operated
+The deployment runs one container image, `datameaning.azurecr.io/metadata-enrichment-engine`, from a registry operated
 by Data Meaning Services Group, Inc. The image contains:
 
 1. **Data Meaning's own code** (the assessment engine and its catalogs), licensed to you under the terms of
